@@ -15,7 +15,7 @@ go run scrapers/uruguay/main.go
 
 Pages: 
 
-####paginasamarillas.com.uy
+#### paginasamarillas.com.uy
 
 #### Output example
 ```json
