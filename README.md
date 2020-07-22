@@ -1,5 +1,13 @@
 # Yellow pages scraper
 
+### How to run 
+
+go run scrapers/#COUNTRY/main.go
+
+i.e
+
+go run scrapers/uruguay/main.go
+
 ## Supported countries
 
 #### Uruguay
@@ -113,3 +121,4 @@ Pages:
 .
 .
 ```
+
